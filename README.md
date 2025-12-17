@@ -1,6 +1,9 @@
 
 # 🧪 IBM RXN Chemistry Protocol Extractor
 
+https://ibm-rxn-chemistry-protocol-extractor-app-2eifcvbwsz9iy73idwn2i.streamlit.app/
+
+
 A **Streamlit-based web application** that uses the **IBM RXN for Chemistry API** to automatically extract **step-by-step chemical reaction protocols** from unstructured reaction procedure text.
 
 This tool is useful for **chemists, researchers, and students** who want to convert plain-text synthesis descriptions into clear, structured laboratory steps.
