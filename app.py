@@ -167,7 +167,7 @@ def about_page():
 def contact_page():
     st.markdown('<div class="title">📞 Contact</div>', unsafe_allow_html=True)
     st.write("For any queries, reach out via:")
-    st.write("- 📧 Email: tejasnarkhede03@gmail.com")
+    st.write("- 📧 Email: rohitkharche27@gmail.com")
     st.write("- 🌐 Website: [IBM RXN](https://rxn.res.ibm.com)")
 
 def settings_page():
