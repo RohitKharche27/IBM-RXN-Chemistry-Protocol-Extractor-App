@@ -11,9 +11,6 @@ This tool is useful for **chemists, researchers, and students** who want to conv
 ---
 # IBM-RXN
 
-#Live LINK : https://ibm-rxn-physics-chemistry-protocol-extractor.streamlit.app/
-
-
 flowchart TD
 ```mermaid
 flowchart TD
@@ -30,6 +27,7 @@ flowchart TD
     B --> L[Settings Page]
     G --> M[End]
 ```
+
 ## 🚀 Features
 
 * ⚗️ Extract **step-by-step synthesis actions** from reaction text
